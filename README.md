@@ -1,6 +1,6 @@
 # BIG-DATA #
 
-#### Copyrithy university of Padua ---> [Link to Project of Big Data group](https://github.com/Big-data-Group-97/Big-Data-Project) here will be palced the file done in collaboration with 2 other members 
+#### Copyright university of Padua ---> [Link to Project of Big Data group](https://github.com/Big-data-Group-97/Big-Data-Project) here will be palced the file done in collaboration with 2 other members 
 
 ## Detailed Course ##  
 
